@@ -1,0 +1,19 @@
+{
+  "name": "g6-commit-conv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/g-six/g6-commit-conv.git"
+  },
+  "author": "g-six",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-six/g6-commit-conv/issues"
+  },
+  "homepage": "https://github.com/g-six/g6-commit-conv#readme"
+}
