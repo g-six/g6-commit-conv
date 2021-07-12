@@ -2,7 +2,7 @@
   "name": "g6-commit-conv",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/g-six/g6-commit-conv/issues"
   },
-  "homepage": "https://github.com/g-six/g6-commit-conv#readme"
+  "homepage": "https://github.com/g-six/g6-commit-conv#readme",
+  "dependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  }
 }
